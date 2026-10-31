@@ -7,7 +7,7 @@ public class Databaseconfigure {
     static String url = "jdbc:mysql://localhost:3306/BOOKYOURTICKET";
 
     static  String username ="root";
-    static  String password="321950";
+    static  String password="*****";
 
     public static Connection getconnection() throws SQLException {
 
